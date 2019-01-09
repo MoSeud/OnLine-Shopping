@@ -5,12 +5,7 @@
 
         <div class="col-lg-3">
 
-          <h1 class="my-4">MAMe Digital Studio</h1>
-          <div class="list-group">
-            <a href="#" class="list-group-item">Music</a>
-            <a href="#" class="list-group-item">Movies</a>
-            <a href="#" class="list-group-item">Animation</a>
-          </div>
+         <%@include file="./shared/sideBar.jsp" %>
 
         </div>
         <!-- /.col-lg-3 -->

@@ -13,6 +13,13 @@
 	<spring.version>5.1.3.RELEASE</spring.version>
 	</properties>
 	<dependencies>
+	
+	<!-- Linking backend project -->
+	<dependency>
+	<groupId>com.hamie</groupId>
+	<artifactId>shoppingBackend</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	</dependency>
 		<!--JAVA EE API -->
        <dependency>
 			<groupId>javax</groupId>
