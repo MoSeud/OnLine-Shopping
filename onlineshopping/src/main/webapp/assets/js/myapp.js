@@ -1,4 +1,4 @@
-$(function(){
+(function(){
 //solving the active problem	
 	switch(menu){
 	
